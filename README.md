@@ -1,4 +1,7 @@
 ---
+name: Cấu trúc chi tiết SRS chuẩn GTM – VNPT
+description: Tài liệu hướng dẫn chuẩn đặc tả yêu cầu phần mềm (SRS) cho các dự án tại VNPT AI.
+---
 # Cấu trúc chi tiết SRS chuẩn GTM – VNPT
 
 ## MỤC LỤC
